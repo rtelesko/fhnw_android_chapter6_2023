@@ -1,0 +1,8 @@
+include ':TestLayout'
+include ':MyConstraintLayout'
+include ':LotteryRelativeLayout'
+include ':LotteryLinearLayout'
+include ':LotteryFrameLayout'
+include ':LotteryConstraintLayout'
+include ':app'
+rootProject.name = "Chapter6"

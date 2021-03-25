@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lottery RelativeLayout</string>
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">Enter E-Mail Address</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="tips">Number of tips:</string>
+
+    <string-array name="number_tips">
+        <item>Select an item ...</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
